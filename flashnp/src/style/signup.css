@@ -1,0 +1,35 @@
+* {
+    font-size: 13px;
+}
+
+
+.login-form {
+    background-image: url(../images/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: #F0F2F5; for greyish white colour*/
+ 
+   
+}
+
+.login-main{
+    padding: 10px 20px 10px 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+    background-color: white;
+
+   
+}
+
+.btn-social:hover {
+    background-color: #17A2B8;
+}
+
+.signup-link {
+    color:#17A2B8 ;
+}
+
+a:link {
+    text-decoration: none;
+}
